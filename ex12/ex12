@@ -69,3 +69,4 @@ public class DoctorFeeCalculator {
  sc.close();
  }
 }
+
